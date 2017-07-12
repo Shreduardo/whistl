@@ -1,0 +1,6 @@
+//Algorithm for musical generation
+
+
+function package(activeMembers, notes, delays, durations) {
+
+}
